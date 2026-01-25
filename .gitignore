@@ -1,0 +1,4 @@
+.env
+screenshots/
+.DS_Store
+.my-env/
